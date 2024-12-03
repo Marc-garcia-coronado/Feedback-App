@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "this is the title 1",
+    "info": "here is more info",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "this is the title 2",
+    "info": "here is more info asdfadf 2",
+    "highlightedCompetencies": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ],
+    "competenciesToImprove": [
+      "Programming proficiency",
+      "Frameworks and Libraries",
+      "Version control",
+      "Testing and QA",
+      "Responsive design",
+      "Problem-Solving and Debugging",
+      "Code review"
+    ]
+  }
+]
